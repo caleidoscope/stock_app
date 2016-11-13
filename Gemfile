@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'devise', '~> 4.1', '>= 4.1.1'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 gem 'devise-bootstrap-views', '~> 0.0.9'
+gem 'stock_quote', '~> 1.2', '>= 1.2.6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
