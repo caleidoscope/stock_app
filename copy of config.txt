@@ -1,6 +1,0 @@
-{
-  "run": [{
-    "default": true,
-    "devbox": "stock_app"
-  }]
-}
