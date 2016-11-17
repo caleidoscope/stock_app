@@ -6,8 +6,8 @@ class StocksController < ApplicationController
     end
     
     if @stock
-      #render partial: 'lookup'
-      render json: @stock
+      render partial: 'lookup'
+      #render json: @stock
     else
       #http://guides.rubyonrails.org/layouts_and_rendering.html#using-render
       render status: :not_found, nothing: true
